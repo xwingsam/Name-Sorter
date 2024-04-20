@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_fc1a2310bee064abc0cb9894f9746271" xml:lang="en-US">
+<title>C:/My Programs/Name Sorter/Name Sorter Directory Reference</title>
+<indexterm><primary>C:/My Programs/Name Sorter/Name Sorter Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Files    </title>
+        <itemizedlist>
+            <listitem><para>file <link linkend="__program_8cs">Program.cs</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

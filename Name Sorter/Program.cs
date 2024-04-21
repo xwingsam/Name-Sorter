@@ -7,7 +7,6 @@ namespace Name_Sorter
 {
     /// <summary>
     /// Gets a text file containing names and sort the name into a list.
-    ///   <br />
     /// </summary>
     public class Program
     {

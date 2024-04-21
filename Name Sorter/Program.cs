@@ -79,31 +79,6 @@ namespace Name_Sorter
                 return mylist.OrderBy(n => n.Split(' ').Last())
                    .ThenBy(n => n.Split(' ').Take(n.Split(' ').Length - 1))
                    .ToList();
-
-                //mylist.Sort((name1, name2) =>
-                //{
-                //    string[] splitName1 = name1.Split(' ');
-                //    string[] splitName2 = name2.Split(' ');
-
-                //    int lastNameComparison = splitName1.Last().CompareTo(splitName2.Last());
-                //    if (lastNameComparison != 0)
-                //    {
-                //        return lastNameComparison;
-                //    }
-
-                //    for (int i = 0; i < Math.Min(splitName1.Length - 1, splitName2.Length - 1); i++)
-                //    {
-                //        int givenNameComparison = splitName1[i].CompareTo(splitName2[i]);
-                //        if (givenNameComparison != 0)
-                //        {
-                //            return givenNameComparison;
-                //        }
-                //    }
-
-                //    return splitName1.Length.CompareTo(splitName2.Length);
-                //});
-
-                //return mylist;
             }
             catch (Exception ex)
             {

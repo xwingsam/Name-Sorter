@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Marin Alvarez
 Adonis Julius Archer
 Beau Tristan Bentley
@@ -9,3 +10,16 @@ Mikayla Lopez
 Janet Parsons
 Frankie Conner Ritter
 Shelby Nathan Yoder
+=======
+Marin Alvarez
+Adonis Julius Archer
+Beau Tristan Bentley
+Hunter Uriah Mathew Clarke
+Leo Gardner
+Vaughn Lewis
+London Lindsey
+Mikayla Lopez
+Janet Parsons
+Frankie Conner Ritter
+Shelby Nathan Yoder
+>>>>>>> a8c6f6196448f354da8907b9d74996758a764dc0

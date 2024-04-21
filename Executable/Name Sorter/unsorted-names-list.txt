@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Janet Parsons
 Vaughn Lewis
 Adonis Julius Archer
@@ -8,4 +9,16 @@ Beau Tristan Bentley
 Leo Gardner
 Hunter Uriah Mathew Clarke
 Mikayla Lopez
+=======
+Janet Parsons
+Vaughn Lewis
+Adonis Julius Archer
+Shelby Nathan Yoder
+Marin Alvarez
+London Lindsey
+Beau Tristan Bentley
+Leo Gardner
+Hunter Uriah Mathew Clarke
+Mikayla Lopez
+>>>>>>> a8c6f6196448f354da8907b9d74996758a764dc0
 Frankie Conner Ritter

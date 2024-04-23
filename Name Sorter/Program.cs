@@ -34,7 +34,7 @@ namespace Name_Sorter
             saveSortedList(mySortedList);
         }
 
-        #region Private Methods
+        #region Methods
 
         /// <summary>
         /// Generates the list.
@@ -126,6 +126,6 @@ namespace Name_Sorter
             }
         }
 
-        #endregion Private Methods
+        #endregion Methods
     }
 }
